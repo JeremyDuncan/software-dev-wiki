@@ -2,7 +2,7 @@
 title: about
 description: 
 published: 1
-date: 2023-08-13T17:43:43.227Z
+date: 2023-08-13T17:43:45.439Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T17:37:09.918Z
