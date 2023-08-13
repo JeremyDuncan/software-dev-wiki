@@ -2,48 +2,89 @@
 title: Home Page
 description: The Basic Home Page
 published: 1
-date: 2023-08-13T19:05:39.287Z
+date: 2023-08-13T19:05:47.738Z
 tags: 
 editor: code
 dateCreated: 2023-08-12T20:18:36.664Z
 -->
 
-<h1 class="toc-header" id="software-developer-wiki"> Software Developer Wiki</h1>
-<p>Your go-to place for coding knowledge and collaboration.</p>
-
-<h2 class="toc-header" id="latest-articles"> Latest Articles</h2>
-<details style="background-color: #293a4c; color: #ffffff; border-radius: 5px;">
-  <summary style="background-color: #1a5289; cursor: pointer; font-weight: bold;">
-    Ruby
-  </summary>
-<ul>
-<li><a class="is-internal-link is-invalid-page" href="/javascript/basics" style="color: #ffffff;">Basics</a></li>
-<li><a class="is-internal-link is-invalid-page" href="/javascript/frameworks" style="color: #ffffff;">Frameworks</a></li>
-</ul>
-</details>
-<details style="background-color: #293a4c; color: #ffffff; border-radius: 5px;">
-  <summary style="background-color: #1a5289; cursor: pointer; font-weight: bold;">
-    Ruby On Rails
-  </summary>
-<ul>
-<li><a class="is-internal-link is-invalid-page" href="/javascript/basics" style="color: #ffffff;">Basics</a></li>
-<li><a class="is-internal-link is-invalid-page" href="/javascript/frameworks" style="color: #ffffff;">Frameworks</a></li>
-</ul>
-</details>
-<details style="background-color: #293a4c; color: #ffffff; border-radius: 5px;">
-  <summary style="background-color: #1a5289; cursor: pointer; font-weight: bold;">
-    Docker
-  </summary>
-<ul>
-<li><a class="is-internal-link is-invalid-page" href="/javascript/basics" style="color: #ffffff;">Basics</a></li>
-<li><a class="is-internal-link is-invalid-page" href="/javascript/frameworks" style="color: #ffffff;">Frameworks</a></li>
-</ul>
-</details>
-<br>
-
-<h2 class="toc-header" id="contact-info"> Contact Info</h2>
-<ul>
-<li>email jeremy.duc</li>
-</ul>
-<p><i class="fas fa-ruby"></i> Ruby<br>
-<i class="fas fa-js-square"></i> JavaScript</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Developer Wiki</title>
+    <style>
+        /* ==============================================================================
+        Basic styling for the body, header, and main content
+        ------------------------------------------------------------------------------ */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #50b3a2;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        /* ==============================================================================
+        Styling for the navigation bar
+        ------------------------------------------------------------------------------ */
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            padding: 14px 20px;
+            color: #50b3a2;
+        }
+        nav a:hover {
+            background-color: #50b3a2;
+            color: white;
+        }
+        /* ==============================================================================
+        Styling for the sections and articles
+        ------------------------------------------------------------------------------ */
+        .section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 5px;
+        }
+        .section h2 {
+            color: #50b3a2;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Developer Wiki</h1>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <div class="section">
+            <h2>Home</h2>
+            <p>Welcome to the Developer Wiki! Here you'll find all the resources and documentation you need.</p>
+        </div>
+        <div class="section">
+            <h2>About</h2>
+            <p>Learn more about the technologies and practices we use in our development process.</p>
+        </div>
+        <div class="section">
+            <h2>Contact</h2>
+            <p>If you have any questions or need support, feel free to reach out to us.</p>
+        </div>
+    </div>
+</body>
+</html>
