@@ -2,8 +2,8 @@
 title: Contact
 description: Developer Contact Information 
 published: 1
-date: 2023-08-17T02:48:24.165Z
-tags: 
+date: 2023-08-17T02:49:58.177Z
+tags: contact info
 editor: markdown
 dateCreated: 2023-08-13T17:37:09.918Z
 ---
