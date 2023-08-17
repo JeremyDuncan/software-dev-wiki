@@ -2,7 +2,7 @@
 title: Docker Container Tutorial
 description: Docker Container Tutorial
 published: 1
-date: 2023-08-17T03:12:40.788Z
+date: 2023-08-17T03:17:53.049Z
 tags: containers, docker, tutorials
 editor: markdown
 dateCreated: 2023-08-13T14:34:35.607Z
@@ -77,3 +77,6 @@ Docker containers offer a flexible and efficient way to build, ship, and run app
 For more in-depth information, refer to the [Official Docker Documentation](https://docs.docker.com/).
 
 Happy Dockering!
+
+ [~*Back To Docker Tutorials*~](/tutorials/docker/containers)
+
