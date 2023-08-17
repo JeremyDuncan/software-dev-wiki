@@ -2,8 +2,8 @@
 title: Docker Container Tutorial
 description: Docker Container Tutorial
 published: 1
-date: 2023-08-13T17:20:05.351Z
-tags: docker, containers
+date: 2023-08-17T03:12:40.788Z
+tags: containers, docker, tutorials
 editor: markdown
 dateCreated: 2023-08-13T14:34:35.607Z
 ---
