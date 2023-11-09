@@ -2,7 +2,7 @@
 title: NGINX Web Server
 description: Tutorial for the NGINX Web Server Container
 published: 1
-date: 2023-11-09T04:36:32.419Z
+date: 2023-11-09T04:40:28.909Z
 tags: container, docker, nginx, webserver
 editor: markdown
 dateCreated: 2023-11-09T04:22:03.921Z
@@ -31,7 +31,8 @@ NGINX can be used to serve static files such as HTML, CSS, and JavaScript, proxy
 
 ## Setting Up NGINX with Docker
 
-Here’s a simple step-by-step guide to setting up NGINX using Docker:
+Here’s a simple step-by-step guide to setting up NGINX using Docker.
+Refer to [Dockerfile Tutorial](/tutorials/docker/dockerfile) for more information on Dockerfile syntax.
 
 ### Step 1: Pull the NGINX Docker Image
 
