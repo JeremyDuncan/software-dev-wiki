@@ -2,7 +2,7 @@
 title: Ruby
 description: Ruby Language
 published: 1
-date: 2023-08-13T17:56:13.433Z
+date: 2023-08-13T17:56:17.220Z
 tags: ruby
 editor: markdown
 dateCreated: 2023-08-13T14:30:01.746Z
