@@ -2,7 +2,7 @@
 title: Dockerfile
 description: Tutorial for Dockerfile Syntax
 published: 1
-date: 2023-11-09T04:43:34.192Z
+date: 2023-11-09T04:43:35.291Z
 tags: docker, dockerfile
 editor: markdown
 dateCreated: 2023-11-09T04:43:34.192Z

@@ -2,7 +2,7 @@
 title: Docker Compose
 description: Tutorial on Docker Compose
 published: 1
-date: 2023-11-09T04:50:41.246Z
+date: 2023-11-09T04:50:42.360Z
 tags: docker, docker-compose
 editor: markdown
 dateCreated: 2023-11-09T04:50:41.246Z

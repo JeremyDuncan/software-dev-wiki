@@ -2,8 +2,8 @@
 title: NGINX Web Server
 description: Tutorial for the NGINX Web Server Container
 published: 1
-date: 2023-11-09T04:47:03.811Z
-tags: container, docker, nginx, webserver
+date: 2023-11-09T04:50:43.021Z
+tags: docker, nginx, container, webserver
 editor: markdown
 dateCreated: 2023-11-09T04:22:03.921Z
 ---
